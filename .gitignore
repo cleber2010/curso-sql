@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Bancos locais
+*.db
+*.sqlite
+*.sqlite3
+
+# Dados 
+*.csv
+
+# Logs / outputs
+*.log
+output/
+exports/
